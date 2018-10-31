@@ -1,0 +1,30 @@
+{
+  "name": "DublinApp",
+  "version": "0.0.1",
+  "description": "Dublin's app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "valentin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-htmlincluder": "^0.1.0",
+    "gulp-less": "^3.3.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp.spritesmith": "^6.5.0",
+    "smart-grid": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andigo/psdFree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andigo/psdFree/issues"
+  },
+  "homepage": "https://github.com/Andigo/psdFree#readme"
+}
